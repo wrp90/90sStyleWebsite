@@ -1,0 +1,26 @@
+.navbar {
+    position: relative;
+    background: blue;
+}
+
+#navlist {
+   list-style: none;
+   display: flex;
+   padding: 0;
+   margin: 0;
+   background: blue;
+}
+
+#navlist li {
+  flex: auto;
+  text-align: center;
+  padding: 1.6em;
+  font-size: 18px;
+  color: white;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
